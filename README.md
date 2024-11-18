@@ -17,13 +17,13 @@ MiniOB 整体代码简洁，容易上手，设计了一系列由浅入深的题�
 
 | Assignment       |Score|Pass Time| Keywords                                              |Commit ID|
 |------------------|-----|---------|-------------------------------------------------------|---------|
-| drop-table       |10|| Table Meta Data                                       | 4d95f5649cb680e97709e7d250a7c1f2b978f1ab  |
-| update           |10|| Logical/Physical Plan Generating                      | 8ae210f8a59924fa90319d930e351ffb46879b0d |
-| date             |10|| Parsing, Type Converting                              | 6ae90c5e41028671d31620240f9191eb7c0b67a0|
-| aggregation-func |10|| Parsing, Error Handling                               | 4fbac94192ec7743fc062de00b4a48b726bb7dd4|
-| insert           |10|| Parsing, Logical/Physical Plan Generating             | 8db8d4115778219fefee37956d8cc8ee64944f62|
-| unique           |10|| Metadata Serialization, Index Scanning                | 948abb52fe5e82b47310fd096575a897c7685533|
-| null             |10|| Storage/Record/IndexKey Format, Expression Comparison | 2a087946b710aaa9f920144580341353e1bcc5a2|
+| drop-table       |10|| Table Meta Data                                       | |
+| update           |10|| Logical/Physical Plan Generating                      | |
+| date             |10|| Parsing, Type Converting                              | |
+| aggregation-func |10|| Parsing, Error Handling                               | |
+| insert           |10|| Parsing, Logical/Physical Plan Generating             | |
+| unique           |10|| Metadata Serialization, Index Scanning                | |
+| null             |10|| Storage/Record/IndexKey Format, Expression Comparison | |
 
 
 # [文档](https://oceanbase.github.io/miniob/)
